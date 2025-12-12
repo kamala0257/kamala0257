@@ -1,2 +1,5 @@
 # Hi, I'm Kamala 👋
 This is my GitHub profile repository.
+## 🧩 My LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/kamala0257?theme=light&font=Baloo)
