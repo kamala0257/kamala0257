@@ -2,5 +2,5 @@
 This is my GitHub profile repository.
 ## 🧩 My LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/gDwos9wrTx?ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/gDwos9wrTx?theme=dark&ext=activity)
 
