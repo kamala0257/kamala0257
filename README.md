@@ -2,4 +2,5 @@
 This is my GitHub profile repository.
 ## 🧩 My LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/kamala0257?theme=light&font=Baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/gDwos9wrTx?theme=dark)
+
